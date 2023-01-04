@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-Amarjeet)](https://github.com/git-Amarjeet/github-readme-stats)
+
 <!--
 **git-Amarjeet/git-Amarjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
