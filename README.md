@@ -1,8 +1,13 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-Amarjeet)](https://github.com/git-Amarjeet/github-readme-stats)
 
 <!--
+[![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-Amarjeet)](https://github.com/git-Amarjeet/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Amarjeet&layout=compact)](https://github.com/git-Amarjeet/github-readme-stats)
+
+<!--
+### Hi there 👋
+
 **git-Amarjeet/git-Amarjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
